@@ -1,0 +1,11 @@
+.pokedesk-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.pokedesk-winner {
+  color: green;
+}
+.pokedesk-loser {
+  color: red;
+}
